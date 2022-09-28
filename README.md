@@ -23,8 +23,6 @@ sh train.sh
 ```Shell
 sh evaluate.sh
 
-
 ## Acknowledgement
-The overall code framework is adapted from [RAFT](https://github.com/princeton-vl/RAFT). We
-thank the authors for the contribution. We also thank [Phil Wang](https://github.com/lucidrains)
-for open-sourcing transformer implementations. 
+Thanks for the open source optical estimation network released by [Shihao Jiang](https://github.com/zacjiang/GMA).
+We also thank the implementation of DVC released by [Zhihao Hu](https://github.com/ZhihaoHu/PyTorchVideoCompression).

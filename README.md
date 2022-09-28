@@ -22,6 +22,7 @@ sh train.sh
 ## Evaluate
 ```Shell
 sh evaluate.sh
+```
 
 ## Acknowledgement
 Thanks for the open source optical estimation network released by [Shihao Jiang](https://github.com/zacjiang/GMA).

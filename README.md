@@ -11,8 +11,6 @@ The code is tested on PyTorch 1.11.0 but other versions might also work.
 
 The version of python library is shown in sfp.yaml and requirements.txt. Many libraries may be unneccessary beacause SFP is tested on various VOS models.
 
-```
-
 ## Demo
 ```Shell
 sh demo.sh

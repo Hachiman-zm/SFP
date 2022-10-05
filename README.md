@@ -3,7 +3,6 @@ Implementation of "A Compressive Prior Guided Mask Predictive Coding Approach fo
 
 The detailed introduction will be updated as soon as possible! 
 
-Sorry for the possible delay because of the coming doctoral thesis proposal presentation and thesis defense.😭😭 
 
 ## Environments
 You will have to choose cudatoolkit version to match your compute environment. 
